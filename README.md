@@ -106,4 +106,4 @@ Depois tente:
 - [Configuração e compatibilidade do Android Gradle Plugin](https://developer.android.com/build/releases/agp-8-13-0-release-notes)
 - [Versões compatíveis de bibliotecas Compose](https://developer.android.com/develop/ui/compose/bom)
 
-Veja também **GUIA_LINKEDIN.md** para preparar uma demonstração do projeto.
+
